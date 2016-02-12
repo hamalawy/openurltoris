@@ -1,0 +1,1 @@
+A php class designed to accept an OpenURL and convert the output to RIS (Research Information Systems) format for importing into common citation manager software - such as EndNote and Reference Works.  Useful for libraries to provide easy downloads of citations for catalog items, link resolver pages, etc.
